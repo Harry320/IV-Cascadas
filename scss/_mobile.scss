@@ -1,0 +1,60 @@
+@media (max-width:700px) {
+
+
+    #navbar{
+
+        .container {
+            flex-direction: column; 
+        }
+    
+        ul {
+           
+           li {
+             margin-left:0;
+             padding: 15px;  
+           }
+        }
+
+    } // fin navbar
+
+//Portfolio
+#portfolio{
+    .container{
+         
+         .portfolio-box{
+              flex-direction: column;
+         }
+    }
+} // fin de portfolio
+
+
+// About 
+#about{
+    padding: 40px 0;
+    p{
+       width: 100%; 
+      
+    }
+
+} // fin de about
+
+#contact{
+    padding: 50px;
+    form{
+        width: 100%;
+       
+    }
+} // fin de contact
+
+
+} // fin de Media
+
+
+
+
+    
+
+  
+
+
+
